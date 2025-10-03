@@ -1,8 +1,11 @@
 {
   "name": "koishi-plugin-userssh",
   "description": "用户SSH连接插件，支持多用户共享服务器连接",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
+  "contributors": [
+    "yangyang8002 <yangyang8002@qq.com>"
+  ],
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
@@ -13,7 +16,11 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "koishi",
+    "plugin",
+    "ssh",
+    "server"
   ],
   "devDependencies": {},
   "peerDependencies": {
