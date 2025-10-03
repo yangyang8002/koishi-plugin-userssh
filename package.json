@@ -12,6 +12,10 @@
     "dist"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyang8002/koishi-plugin-userssh.git"
+  },
   "scripts": {},
   "keywords": [
     "chatbot",
